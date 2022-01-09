@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IntrepidPCL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cube::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cube-Debug-68bfcb2bcbaf3fd5732e.json",
+					"name" : "cube",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "intrepid::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-intrepid-Debug-fd216b52cc01ed30f3e4.json",
+					"name" : "intrepid",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mcr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mcr-Debug-831f10ace14fd6bda097.json",
+					"name" : "mcr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ptv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ptv-Debug-76adf46156c719120760.json",
+					"name" : "ptv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ttp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ttp-Debug-4fba0957ac95b333d220.json",
+					"name" : "ttp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vtp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vtp-Debug-f191162866201eb50f3d.json",
+					"name" : "vtp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/matth/OneDrive - VNU-HCMUS/Sem 7/Computer Graphics/K2019-CLC-DHMT-DO AN-NHOM 3/Source code/IntrepidPCL/cmake-build-debug",
+		"source" : "/mnt/c/Users/matth/OneDrive - VNU-HCMUS/Sem 7/Computer Graphics/K2019-CLC-DHMT-DO AN-NHOM 3/Source code/IntrepidPCL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
